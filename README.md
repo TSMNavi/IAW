@@ -1,2 +1,1 @@
-# IAW
-Ejercicios de IAW
+Este repositorio incluye los ejercicios hechos de php de IAW
